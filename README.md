@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/0ed28b734a42d06a96cc57f5d478625c.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nemal Perera</h1>
 <h3 align="center">A passionate Computer Engineer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
