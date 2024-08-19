@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Flutter App Development**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps !**
 
 - 💬 Ask me about **Python , DSA**
 
