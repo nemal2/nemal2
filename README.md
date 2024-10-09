@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 
-- 🔭 I’m currently working on **Computer Architecture Designs**
+- 🔭 I’m currently working on **Application Development using Java**
 
 - 🌱 I’m currently learning **DevOps !**
 
