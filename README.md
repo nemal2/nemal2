@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Application Development using Java Springboot**
 
-- 🌱 I’m currently learning **DevOps !**
+- 🌱 I’m currently learning **Information Security !**
 
-- 💬 Ask me about **Python , DSA**
+- 💬 Ask me about **Java , Crptography**
 
 - 📫 How to reach me **nemalperera2@gmail.com**
 
