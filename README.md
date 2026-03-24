@@ -65,7 +65,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nemal2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Nemal's GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemal2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,ipynb" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemal2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook" height="165" alt="Top Languages"/>
 </p>
 
 ---
