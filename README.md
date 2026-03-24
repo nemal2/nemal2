@@ -43,10 +43,19 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏅 Achievements & Profiles
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nemal2&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="nemal2 trophies"/>
+<p align="left">
+  <a href="https://www.hackerrank.com/nemalperera2">
+    <img src="https://img.shields.io/badge/HackerRank-Solved%20Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/user_mzu1dgqp83h">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Information%20Security-red?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-Backend%20Dev-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cryptography-Enthusiast-blueviolet?style=for-the-badge&logo=keybase&logoColor=white"/>
 </p>
 
 ---
@@ -56,7 +65,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nemal2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Nemal's GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemal2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemal2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,ipynb" height="165" alt="Top Languages"/>
 </p>
 
 ---
