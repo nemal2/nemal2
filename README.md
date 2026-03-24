@@ -75,6 +75,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nemal2&" alt="nemal2" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemal2&show_icons=true&locale=en&layout=compact" alt="nemal2" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nemal2&show_icons=true&locale=en" alt="nemal2" /></p>
+
 ---
 
 ### 🔐 Current Focus: Information Security
