@@ -76,9 +76,6 @@
   <img src="https://streak-stats.demolab.com?user=nemal2&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nemal2&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
 
 ### 🐍 Contribution Snake
 
