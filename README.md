@@ -23,17 +23,17 @@
 
 #### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,js,ts,dart,kotlin,matlab&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,kotlin,matlab&perline=10" />
 </p>
 
 #### Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,flutter,tensorflow&perline=10" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,flutter&perline=10" />
 </p>
 
 #### Databases & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,aws,docker&perline=10" />
 </p>
 
 #### Tools & Platforms
@@ -88,7 +88,7 @@
 Cryptography        ████████████░░░░░   65%
 Network Security    ██████░░░░░░░░░░░   35%
 Secure Coding       ████████░░░░░░░░░   45%
-Spring Boot Dev     ████████████████░   85%
+Spring Boot Dev     ████████████████░   75%
 ```
 
 ---
