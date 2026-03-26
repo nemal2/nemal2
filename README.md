@@ -73,19 +73,35 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nemal2&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=nemal2&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nemal2&theme=tokyo-night&hide_border=true&area=true&cache_seconds=3600" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nemal2/nemal2/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nemal2/nemal2/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/nemal2/nemal2/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
 
 ---
 
 ### 🔐 Current Focus: Information Security
 
-```text
+\`\`\`text
 Cryptography        ████████████░░░░░   65%
 Network Security    ██████░░░░░░░░░░░   35%
 Secure Coding       ████████░░░░░░░░░   45%
 Spring Boot Dev     ████████████████░   85%
-```
+\`\`\`
 
 ---
 
