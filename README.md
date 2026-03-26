@@ -82,26 +82,14 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nemal2/nemal2/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nemal2/nemal2/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/nemal2/nemal2/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</p>
-
----
-
 ### 🔐 Current Focus: Information Security
 
-\`\`\`text
+```text
 Cryptography        ████████████░░░░░   65%
 Network Security    ██████░░░░░░░░░░░   35%
 Secure Coding       ████████░░░░░░░░░   45%
 Spring Boot Dev     ████████████████░   85%
-\`\`\`
+```
 
 ---
 
