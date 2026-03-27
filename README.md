@@ -23,7 +23,7 @@
 
 #### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,kotlin,matlab&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,kotlin,rust&perline=10" />
 </p>
 
 #### Frameworks & Libraries
