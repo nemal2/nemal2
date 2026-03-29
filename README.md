@@ -38,7 +38,7 @@
 
 #### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,postman,html,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,kali,packertracer,gns3&perline=10" />
 </p>
 
 ---
