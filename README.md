@@ -28,7 +28,7 @@
 
 #### Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,flutter&perline=10" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,flutter,ladder,springbatch,hadoop&perline=10" />
 </p>
 
 #### Databases & Cloud
