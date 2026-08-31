@@ -11,11 +11,14 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building **Application Development with Java Spring Boot**
-- 🌱 Deep-diving into **Information Security & Cryptography**
-- 💬 Ask me about **Java, Cryptography, Spring Boot**
+- 🔭 Currently building **Secure Applications with Java & Spring Boot**
+- 🌱 Deep-diving into **Cybersecurity, OT Security & Cryptography**
+- 🧪 Exploring **Malware Analysis, Threat Detection & Security Research**
+- ⚛️ Learning **Quantum Software Engineering & Post-Quantum Cryptography**
+- 💬 Ask me about **Cybersecurity, OT/ICS Security, Cryptography & Secure Software**
+- 🛡️ Interested in **Vulnerability Analysis, Digital Forensics & Cyber Threats**
 - 📫 Reach me at **nemalperera2@gmail.com**
-- ⚡ Fun fact: **Programming is easy** *(once you've Googled everything)*
+- ⚡ Fun fact: **Every system is secure... until someone starts testing it. 😄**
 
 ---
 
